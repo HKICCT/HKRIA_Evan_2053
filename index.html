@@ -17,7 +17,7 @@
     let restaurantsGroup = [];
     let searchRadius = 100; // Default search radius in meters
     let currentOpenInfoWindow = null;
-    let infoWindowOpen = false; // Add a flag to track the state of the info window
+    let infoWindowOpen = false;
     let lastUpdateTime = 0;
     let watchId;
     const UPDATE_INTERVAL = 5000; // Minimum interval between updates in milliseconds
@@ -36,7 +36,7 @@
     // Fetch the restaurant group data from the Excel file converted to JSON
     async function loadRestaurantsGroup() {
       try {
-        const response = await fetch('restaurants_grp.json'); // Assume the Excel file is converted to JSON format
+        const response = await fetch('restaurants_grp.json');
         restaurantsGroup = await response.json();
       } catch (error) {
         console.error('Error loading restaurant group data:', error);
@@ -165,10 +165,11 @@
 
       const bounds = new google.maps.LatLngBounds();
 
+      // Display individual restaurants
       restaurants.forEach((restaurant) => {
         let restaurantDiv = document.createElement('div');
         restaurantDiv.className = 'restaurant-item';
-        restaurantDiv.innerHTML = `<div class="restaurant-name">${restaurant['Restaurant Name']}</div><div class="restaurant-address">${restaurant['Cuisines']} <br> - Price Range: ${restaurant['Price Range']}</div>`;
+        restaurantDiv.innerHTML = `<div class="restaurant-name">${restaurant['Restaurant Name']}</div><div class="restaurant-address">- Cusisines: ${restaurant['Cuisines']} <br> - Price Range: ${restaurant['Price Range']}</div>`;
         sidebarContent.appendChild(restaurantDiv);
 
         let placeLocation = {
@@ -217,7 +218,13 @@
         bounds.extend(placeLocation);
       });
 
+      // Display group restaurants with yellow color in the sidebar
       groupRestaurants.forEach((restaurant) => {
+        let restaurantDiv = document.createElement('div');
+        restaurantDiv.className = 'restaurant-item group';
+        restaurantDiv.innerHTML = `<div class="restaurant-name">${restaurant['Restaurant Name']}</div><div class="restaurant-address">${restaurant['Cuisines']} <br> - Price Range: ${restaurant['Price Range']}</div>`;
+        sidebarContent.appendChild(restaurantDiv);
+
         let placeLocation = {
           lat: parseFloat(restaurant.Latitude),
           lng: parseFloat(restaurant.Longitude)
@@ -230,10 +237,10 @@
           icon: {
             path: google.maps.SymbolPath.CIRCLE,
             scale: 7,
-            fillColor: "#FFD700", // Yellow color for group restaurants
+            fillColor: "#318CE7",
             fillOpacity: 1,
             strokeWeight: 1,
-            strokeColor: "#FFD700"
+            strokeColor: "#318CE7"
           }
         });
 
@@ -249,6 +256,17 @@
           }
           currentOpenInfoWindow = currentInfoWindow;
           currentInfoWindow.open(map, marker);
+          infoWindowOpen = true;
+          stopGeolocationTracking();
+        });
+
+        restaurantDiv.addEventListener('click', () => {
+          if (currentOpenInfoWindow) {
+            currentOpenInfoWindow.close();
+          }
+          currentOpenInfoWindow = currentInfoWindow;
+          currentInfoWindow.open(map, marker);
+          map.setCenter(marker.getPosition());
           infoWindowOpen = true;
           stopGeolocationTracking();
         });
@@ -391,6 +409,10 @@
 
     .restaurant-item:hover {
       background-color: #eaeaea;
+    }
+
+    .restaurant-item.group {
+      background-color: #318CE7;
     }
 
     .restaurant-name {
