@@ -21,7 +21,6 @@
     let lastUpdateTime = 0;
     let watchId;
     const UPDATE_INTERVAL = 5000; // Minimum interval between updates in milliseconds
-    let currentDataset = 'individual'; // Default dataset
 
     // Fetch the restaurant data from the local JSON file
     async function loadRestaurants() {
@@ -44,23 +43,9 @@
       }
     }
 
-    async function loadRestaurantsData() {
-      // Load data based on current selection
-      if (currentDataset === 'individual') {
-        await loadRestaurants();
-        displayRestaurants(restaurants, []); // Show only individual restaurants
-      } else if (currentDataset === 'group') {
-        await loadRestaurantsGroup();
-        displayRestaurants([], restaurantsGroup); // Show only group restaurants
-      } else if (currentDataset === 'both') {
-        await loadRestaurants();
-        await loadRestaurantsGroup();
-        displayRestaurants(restaurants, restaurantsGroup); // Show both datasets
-      }
-    }
-
     async function initMap() {
-      await loadRestaurantsData();
+      await loadRestaurants();
+      await loadRestaurantsGroup();
 
       if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition((position) => {
@@ -114,21 +99,29 @@
     }
 
     function fetchNearbyRestaurants(userLocation) {
-      const nearbyRestaurants = searchRadius === 'all' ? restaurants : restaurants.filter((restaurant) => {
-        const restaurantLocation = {
-          lat: restaurant.Latitude,
-          lng: restaurant.Longitude
-        };
-        return calculateDistance(userLocation, restaurantLocation) <= searchRadius;
-      });
+      const displaySelection = document.getElementById("group-selection").value;
+      let nearbyRestaurants = [];
+      let nearbyGroupRestaurants = [];
 
-      const nearbyGroupRestaurants = searchRadius === 'all' ? restaurantsGroup : restaurantsGroup.filter((restaurant) => {
-        const restaurantLocation = {
-          lat: restaurant.Latitude,
-          lng: restaurant.Longitude
-        };
-        return calculateDistance(userLocation, restaurantLocation) <= searchRadius;
-      });
+      if (displaySelection === 'all' || displaySelection === 'individual') {
+        nearbyRestaurants = searchRadius === 'all' ? restaurants : restaurants.filter((restaurant) => {
+          const restaurantLocation = {
+            lat: restaurant.Latitude,
+            lng: restaurant.Longitude
+          };
+          return calculateDistance(userLocation, restaurantLocation) <= searchRadius;
+        });
+      }
+
+      if (displaySelection === 'all' || displaySelection === 'group') {
+        nearbyGroupRestaurants = searchRadius === 'all' ? restaurantsGroup : restaurantsGroup.filter((restaurant) => {
+          const restaurantLocation = {
+            lat: restaurant.Latitude,
+            lng: restaurant.Longitude
+          };
+          return calculateDistance(userLocation, restaurantLocation) <= searchRadius;
+        });
+      }
 
       displayRestaurants(nearbyRestaurants, nearbyGroupRestaurants);
     }
@@ -184,7 +177,7 @@
       restaurants.forEach((restaurant) => {
         let restaurantDiv = document.createElement('div');
         restaurantDiv.className = 'restaurant-item';
-        restaurantDiv.innerHTML = `<div class="restaurant-name">${restaurant['Restaurant Name']}</div><div class="restaurant-address">- Cuisines: ${restaurant['Cuisines']} <br> - Price Range: ${restaurant['Price Range']}</div>`;
+        restaurantDiv.innerHTML = `<div class="restaurant-name">${restaurant['Restaurant Name']}</div><div class="restaurant-address">- Cusisines: ${restaurant['Cuisines']} <br> - Price Range: ${restaurant['Price Range']}</div>`;
         sidebarContent.appendChild(restaurantDiv);
 
         let placeLocation = {
@@ -306,7 +299,7 @@
       };
     }
 
-    document.addEventListener('DOMContentLoaded', () => {
+    window.onload = () => {
       initMap();
       const toggleButton = document.getElementById("toggle-button");
       const sidebar = document.getElementById("sidebar");
@@ -328,22 +321,19 @@
         }
       });
 
-      // Dataset select listener
-      const datasetSelect = document.getElementById("dataset-select");
-      datasetSelect.addEventListener("change", (event) => {
-        currentDataset = event.target.value;
+      const groupSelection = document.getElementById("group-selection");
+      groupSelection.addEventListener("change", () => {
         if (navigator.geolocation) {
           navigator.geolocation.getCurrentPosition((position) => {
             const userLocation = {
               lat: position.coords.latitude,
               lng: position.coords.longitude
             };
-            loadRestaurantsData();
-            fetchNearbyRestaurants(userLocation); // Update restaurant markers based on current dataset
+            fetchNearbyRestaurants(userLocation);
           });
         }
       });
-    });
+    };
   </script>
 
   <!-- Styles -->
@@ -395,7 +385,7 @@
       box-shadow: 0 2px 4px rgba(0,0,0,0.3);
     }
 
-    #radius-select, #dataset-select {
+    #radius-select {
       position: absolute;
       top: 10px;
       right: 10px;
@@ -407,7 +397,22 @@
       font-size: 16px;
       border-radius: 4px;
       box-shadow: 0 2px 4px rgba(0,0,0,0.3);
-      margin-left: 10px;
+      margin-right: 10px;
+    }
+
+    #group-selection {
+      position: absolute;
+      top: 60px;
+      right: 10px;
+      z-index: 3;
+      background-color: #fff;
+      border: none;
+      padding: 10px;
+      cursor: pointer;
+      font-size: 16px;
+      border-radius: 4px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      margin-right: 10px;
     }
 
     /* Move the toggle button when the sidebar is open */
@@ -468,21 +473,22 @@
     <button id="toggle-button">☰ Menu</button>
     <div id="sidebar" class="collapsed">
       <h2 style="text-align:right"> HKRIA</h2>
+      <h2></h2>
       <h3> Nearby Restaurants</h3>
       <div id="restaurant-list"></div>
     </div>
     <div id="map"></div>
+    <select id="group-selection">
+      <option value="all">Show All</option>
+      <option value="individual">Individual Restaurants Only</option>
+      <option value="group">Group Restaurants Only</option>
+    </select>
     <select id="radius-select">
       <option value="100">100 meters</option>
       <option value="200">200 meters</option>
       <option value="300">300 meters</option>
       <option value="400">400 meters</option>
       <option value="all">All</option>
-    </select>
-    <select id="dataset-select">
-      <option value="individual">Show Individual Restaurants</option>
-      <option value="group">Show Restaurant Groups</option>
-      <option value="both">Show Both</option>
     </select>
   </div>
 </body>
