@@ -15,21 +15,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"@ Fi5th Pub",
-        "Code":"R13132",
-        "Opportunities":"High",
-        "Location":"5\/F, Katherine Centre, 53-55 Chatham Road South",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 11:45:46",
-        "Longitude":114.1755418,
-        "Latitude":22.2990882,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"@ Fi5th Pub",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"1\/F NAN KOK",
         "Code":"R10830",
         "Opportunities":"High",
@@ -120,21 +105,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"404 Not Found",
-        "Code":"R13033",
-        "Opportunities":"High",
-        "Location":"4\/F, Kimberly Plaza, 45-47 Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Skewer",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 11:49:52",
-        "Longitude":114.174176,
-        "Latitude":22.3010885,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"404 Not Found",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"45\u00b0 1\/2 Bar",
         "Code":"R6517",
         "Opportunities":"High",
@@ -162,21 +132,6 @@
         "Latitude":22.3758839,
         "Type":"Unique",
         "Cleaned Restaurant Name":"886 Taiwan Dining Table",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"8Five2 Restobar",
-        "Code":"R10831",
-        "Opportunities":"High",
-        "Location":"Shop 2, G\/F, 8 Observatory Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Mexican",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 15:16:59",
-        "Longitude":114.1756731,
-        "Latitude":22.3011024,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"8Five2 Restobar",
         "Person":"Evan"
     },
     {
@@ -240,21 +195,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"aga Restaurant & Bar",
-        "Code":"R13133",
-        "Opportunities":"High",
-        "Location":"5\/F, The Lamma Tower, 12-12A Hau Fook Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 12:03:05",
-        "Longitude":114.1738698,
-        "Latitude":22.2996133,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"aga Restaurant & Bar",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"aira",
         "Code":"R10024",
         "Opportunities":"High",
@@ -285,21 +225,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Akai Honoo",
-        "Code":"R10077",
-        "Opportunities":"High",
-        "Location":"5\/F, Po Cheong Commercial Building, 29 Prat Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Skewer",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-08 10:29:01",
-        "Longitude":114.175298,
-        "Latitude":22.2986362,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Akai Honoo",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"All About Nuts",
         "Code":"R12794",
         "Opportunities":"High",
@@ -312,21 +237,6 @@
         "Latitude":22.3347651,
         "Type":"Unique",
         "Cleaned Restaurant Name":"All About Nuts",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"all take away",
-        "Code":"R10611",
-        "Opportunities":"High",
-        "Location":"G\/F, 1 Kimberley Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 17:07:53",
-        "Longitude":114.1751652,
-        "Latitude":22.3005876,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"all take away",
         "Person":"Evan"
     },
     {
@@ -375,21 +285,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Anjappar Chettinad Indian Restaurant",
-        "Code":"R8367",
-        "Opportunities":"High",
-        "Location":"Shop 202, 2\/F, Multifield Plaza, 3-7A Prat Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Indian",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:03:29",
-        "Longitude":114.1743575,
-        "Latitude":22.2983375,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Anjappar Chettinad Indian Restaurant",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Ank\u00f4ma",
         "Code":"R9715",
         "Opportunities":"High",
@@ -420,21 +315,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Apgujeong Tent Bar",
-        "Code":"R10785",
-        "Opportunities":"High",
-        "Location":"1\/F, Koon Fook Centre, 9 Knutsford Terrace",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean,Wine",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-08 17:42:47",
-        "Longitude":114.1738698,
-        "Latitude":22.3013136,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Apgujeong Tent Bar",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Aqua",
         "Code":"R9770",
         "Opportunities":"High",
@@ -447,21 +327,6 @@
         "Latitude":22.2953974,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Aqua",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"AQUA 2",
-        "Code":"R7627",
-        "Opportunities":"High",
-        "Location":"5\/F, Vincent Commercial Centre, 21 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Hong Kong Style,Bar",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 12:20:16",
-        "Longitude":114.1732196,
-        "Latitude":22.3028984,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"AQUA 2",
         "Person":"Evan"
     },
     {
@@ -507,36 +372,6 @@
         "Latitude":22.2477745,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Arca Society",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Artisan Lounge by LUBUDS",
-        "Code":"R12047",
-        "Opportunities":"High",
-        "Location":"Shop 008-008A, G\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western",
-        "Price Range":"$401-800",
-        "Timestamp":"2024-10-04 11:16:51",
-        "Longitude":114.1750794,
-        "Latitude":22.2943692,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Artisan Lounge by LUBUDS",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"ASAHI UCHI",
-        "Code":"R8805",
-        "Opportunities":"High",
-        "Location":"Shop 201, B2\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Dessert",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-09 13:58:24",
-        "Longitude":114.1739272,
-        "Latitude":22.2941573,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"ASAHI UCHI",
         "Person":"Evan"
     },
     {
@@ -600,21 +435,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Avoca",
-        "Code":"R9157",
-        "Opportunities":"High",
-        "Location":"38\/F, Mondrian Hong Kong, 8A Hart Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Wine",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 16:13:23",
-        "Longitude":114.1748233,
-        "Latitude":22.2976487,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Avoca",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"AW Patisserie",
         "Code":"R6738",
         "Opportunities":"High",
@@ -645,21 +465,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Azores Express",
-        "Code":"R10893",
-        "Opportunities":"High",
-        "Location":"Food Playground, B2\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Portuguese",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 11:16:51",
-        "Longitude":114.174117,
-        "Latitude":22.294035,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Azores Express",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"B.I.T. Canteen",
         "Code":"R8876",
         "Opportunities":"High",
@@ -687,21 +492,6 @@
         "Latitude":22.2993108,
         "Type":"Unique",
         "Cleaned Restaurant Name":"B\u2019hood",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Badroom Bar & Restaurant",
-        "Code":"R13206",
-        "Opportunities":"High",
-        "Location":"Room A-C, 5\/F, 10 Knutsford Terrace",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 16:13:23",
-        "Longitude":114.1739814,
-        "Latitude":22.3012992,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Badroom Bar & Restaurant",
         "Person":"Evan"
     },
     {
@@ -810,21 +600,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Bayfare Social",
-        "Code":"R11194",
-        "Opportunities":"High",
-        "Location":"5\/F, Rosewood Hong Kong, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Spanish,Western",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 10:16:18",
-        "Longitude":114.1758105,
-        "Latitude":22.2949764,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Bayfare Social",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Be on Canton",
         "Code":"R13139",
         "Opportunities":"High",
@@ -867,21 +642,6 @@
         "Latitude":22.2473891,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Beef King",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Being & Tea",
-        "Code":"R8868",
-        "Opportunities":"High",
-        "Location":"Shop LA202, 2\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Ice Cream\/yogurt",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 16:38:03",
-        "Longitude":114.1739272,
-        "Latitude":22.2941573,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Being & Tea",
         "Person":"Evan"
     },
     {
@@ -975,21 +735,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Black Wood Izakaya (Cameron Road)",
-        "Code":"R10025",
-        "Opportunities":"High",
-        "Location":"G\/F-1\/\/F, Kok Pah Mansion, 58-60 Cameron Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Robatayaki",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 16:56:33",
-        "Longitude":114.1753371,
-        "Latitude":22.2993032,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Black Wood Izakaya",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Blesscuit Bakery",
         "Code":"R12236",
         "Opportunities":"High",
@@ -1002,21 +747,6 @@
         "Latitude":22.297525,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Blesscuit Bakery",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"BluHouse",
-        "Code":"R9268",
-        "Opportunities":"High",
-        "Location":"G\/F, Rosewood Hong Kong, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Italian,Hotel Restaurant",
-        "Price Range":"$401-800",
-        "Timestamp":"2024-10-04 10:16:18",
-        "Longitude":114.1756952,
-        "Latitude":22.294964,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"BluHouse",
         "Person":"Evan"
     },
     {
@@ -1065,21 +795,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Bong Ru",
-        "Code":"R10582",
-        "Opportunities":"High",
-        "Location":"1\/F, Winfield Commercial Building, 6-8 Prat Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-03 16:02:42",
-        "Longitude":114.1742646,
-        "Latitude":22.2986137,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Bong Ru",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Bonza! by Waffling Beans",
         "Code":"R8800",
         "Opportunities":"High",
@@ -1107,21 +822,6 @@
         "Latitude":22.2175371,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Book Cafe",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Brain Storm Bar",
-        "Code":"R12273",
-        "Opportunities":"High",
-        "Location":"Shop 3, G\/F &L\/G, Observatory Mansion, 10-12 Observatory Court",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Bar",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:56:33",
-        "Longitude":114.1748916,
-        "Latitude":22.3018501,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Brain Storm Bar",
         "Person":"Evan"
     },
     {
@@ -1200,21 +900,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Busan Sanghoe",
-        "Code":"R10604",
-        "Opportunities":"High",
-        "Location":"Shop A-C, G\/F, Passkon Court, 79-81 Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-09 15:02:39",
-        "Longitude":114.1751703,
-        "Latitude":22.301937,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Busan Sanghoe",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Bushra",
         "Code":"R10849",
         "Opportunities":"High",
@@ -1257,21 +942,6 @@
         "Latitude":22.3817578,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Butlery",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Butterfly Patisserie",
-        "Code":"R12811",
-        "Opportunities":"High",
-        "Location":"2\/F, Rosewood Hong Kong, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Dessert",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 17:18:26",
-        "Longitude":114.1755325,
-        "Latitude":22.2949169,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Butterfly Patisserie",
         "Person":"Evan"
     },
     {
@@ -1515,51 +1185,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Caliente",
-        "Code":"R10832",
-        "Opportunities":"High",
-        "Location":"3\/F, 6 Knutsford Terrace",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Mexican",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 17:09:37",
-        "Longitude":114.173453,
-        "Latitude":22.301269,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Caliente",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Cannubi Enoteca Cucina",
-        "Code":"R9445",
-        "Opportunities":"High",
-        "Location":"Shop 113A, 1\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Italian,Western",
-        "Price Range":"Above $801",
-        "Timestamp":"2024-10-04 11:00:47",
-        "Longitude":114.1755332,
-        "Latitude":22.2949178,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Cannubi Enoteca Cucina",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Carna by Dario Cecchini",
-        "Code":"R9401",
-        "Opportunities":"High",
-        "Location":"39\/F, Mondrian Hong Kong, 8A Hart Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Italian,Steak House",
-        "Price Range":"Above $801",
-        "Timestamp":"2024-10-04 11:00:47",
-        "Longitude":114.1749084,
-        "Latitude":22.2977228,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Carna by Dario Cecchini",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Casa Kitchen (Nam Shan Shopping Centre)",
         "Code":"R12172",
         "Opportunities":"High",
@@ -1617,21 +1242,6 @@
         "Latitude":22.402919,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Centurion Restaurant",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"CHAAT",
-        "Code":"R8407",
-        "Opportunities":"High",
-        "Location":"5\/F, Rosewood Hong Kong, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Indian,Hotel Restaurant,$401-800",
-        "Price Range":"Michelin 2024",
-        "Timestamp":"2024-10-04 10:16:18",
-        "Longitude":114.1744661,
-        "Latitude":22.2943802,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"CHAAT",
         "Person":"Evan"
     },
     {
@@ -1737,21 +1347,6 @@
         "Latitude":22.2483231,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Chopsticks Fork n Knife Express",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"CHOU CHOU Yakitori",
-        "Code":"R10096",
-        "Opportunities":"High",
-        "Location":"Shop A, G\/F, 8 Hart Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Skewer",
-        "Price Range":"$401-800",
-        "Timestamp":"2024-10-04 17:14:25",
-        "Longitude":114.1747291,
-        "Latitude":22.2981918,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"CHOU CHOU Yakitori",
         "Person":"Evan"
     },
     {
@@ -1905,21 +1500,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Commix Bar",
-        "Code":"R9160",
-        "Opportunities":"High",
-        "Location":"G\/F, Hody Commercial Building, 6 Hart Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Wine",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 17:56:18",
-        "Longitude":114.1746594,
-        "Latitude":22.2978322,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Commix Bar",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Cookies Quartet Limited",
         "Code":"R12237",
         "Opportunities":"High",
@@ -1965,21 +1545,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Costa del Sol",
-        "Code":"R11187",
-        "Opportunities":"High",
-        "Location":"Shop 4B, G\/F, Windsor Mansions, 17 Austin Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Spanish,Mediterranean",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 12:41:44",
-        "Longitude":114.1749148,
-        "Latitude":22.3026966,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Costa del Sol",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Cow Bean",
         "Code":"R10110",
         "Opportunities":"High",
@@ -1995,21 +1560,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"CRABTASTIC",
-        "Code":"R10061",
-        "Opportunities":"High",
-        "Location":"Shop B, G\/F, 48 Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Shanghai Hairy Crab",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 17:12:52",
-        "Longitude":114.1743981,
-        "Latitude":22.3007808,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"CRABTASTIC",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Craft House",
         "Code":"R8957",
         "Opportunities":"High",
@@ -2022,21 +1572,6 @@
         "Latitude":22.400165,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Craft House",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Crema",
-        "Code":"R12598",
-        "Opportunities":"High",
-        "Location":"Shop LG17, LG\/F, Hilton Towers, 96 Granville Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Coffee Shop",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 17:30:31",
-        "Longitude":114.1770507,
-        "Latitude":22.299347,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Crema",
         "Person":"Evan"
     },
     {
@@ -2205,21 +1740,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"DarkSide",
-        "Code":"R13210",
-        "Opportunities":"High",
-        "Location":"2\/F, Rosewood Hong Kong, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 17:40:55",
-        "Longitude":114.1752139,
-        "Latitude":22.2946098,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"DarkSide",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"dartsman",
         "Code":"R11729",
         "Opportunities":"High",
@@ -2232,21 +1752,6 @@
         "Latitude":22.2979489,
         "Type":"Unique",
         "Cleaned Restaurant Name":"dartsman",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Day N Nite Cafe & Bar",
-        "Code":"R9108",
-        "Opportunities":"High",
-        "Location":"G\/F, Green View Court, 2-4 Observatory Court",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-09 12:59:01",
-        "Longitude":114.174802,
-        "Latitude":22.3015535,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Day N Nite Cafe & Bar",
         "Person":"Evan"
     },
     {
@@ -2277,21 +1782,6 @@
         "Latitude":22.3215895,
         "Type":"Unique",
         "Cleaned Restaurant Name":"DearDeli",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Deep Sea Oyster & Steak",
-        "Code":"R8985",
-        "Opportunities":"High",
-        "Location":"Shop A, 13\/F, Nathan Hill, 38 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Seafood",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-03 16:06:48",
-        "Longitude":114.1740074,
-        "Latitude":22.3026712,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Deep Sea Oyster & Steak",
         "Person":"Evan"
     },
     {
@@ -2370,21 +1860,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Dol Dam Gil Korean Restaurant",
-        "Code":"R10738",
-        "Opportunities":"High",
-        "Location":"Shop 20&22, G\/F, Wing Lee Building, 27-33 Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean,Roast Meat",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 12:40:36",
-        "Longitude":114.1735111,
-        "Latitude":22.3008595,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Dol Dam Gil Korean Restaurant",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Dood Bottega Gelateria",
         "Code":"R9270",
         "Opportunities":"High",
@@ -2412,36 +1887,6 @@
         "Latitude":22.3273,
         "Type":"Unique",
         "Cleaned Restaurant Name":"DOUBLE 8 PIZZERIA",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"double x",
-        "Code":"R8945",
-        "Opportunities":"High",
-        "Location":"6\/F, Nathan Hill, 38 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Private Kitchen",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:55:22",
-        "Longitude":114.1740495,
-        "Latitude":22.302732,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"double x",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Downtown Bar & Chill Place To Go",
-        "Code":"R11845",
-        "Opportunities":"High",
-        "Location":"G\/F, 7 Knutsford Terrace",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Thai,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:02:06",
-        "Longitude":114.173712,
-        "Latitude":22.301295,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Downtown Bar & Chill Place To Go",
         "Person":"Evan"
     },
     {
@@ -2490,36 +1935,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Dream House",
-        "Code":"R13211",
-        "Opportunities":"High",
-        "Location":"18\/F, Soho Tower, 25 Hart Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 12:56:14",
-        "Longitude":114.1751434,
-        "Latitude":22.2979073,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Dream House",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Dream Restaurant & Bar",
-        "Code":"R12223",
-        "Opportunities":"High",
-        "Location":"10\/F, Nathan Hill, 38 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,American",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-03 16:06:48",
-        "Longitude":114.1739958,
-        "Latitude":22.3026991,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Dream Restaurant & Bar",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Earl's Court",
         "Code":"R12040",
         "Opportunities":"High",
@@ -2550,21 +1965,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"EL CID Spanish Restaurant",
-        "Code":"R11180",
-        "Opportunities":"High",
-        "Location":"G\/F, New Knutsford House, 14 Knutsford Terrace",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Spanish",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 16:13:23",
-        "Longitude":114.174239,
-        "Latitude":22.301458,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"EL CID Spanish Restaurant",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"El Toro Steak House & Bar",
         "Code":"R9454",
         "Opportunities":"High",
@@ -2580,21 +1980,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"EMO CLUB",
-        "Code":"R12317",
-        "Opportunities":"High",
-        "Location":"5\/F, Hotel Hart, 4 Hart Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Bar",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 12:46:57",
-        "Longitude":114.1746487,
-        "Latitude":22.2979207,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"EMO CLUB",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Enjoy Sashimi Grill & Bar",
         "Code":"R10448",
         "Opportunities":"High",
@@ -2607,21 +1992,6 @@
         "Latitude":22.299604,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Enjoy Sashimi Grill & Bar",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"ENSO",
-        "Code":"R10518",
-        "Opportunities":"High",
-        "Location":"G\/F, 1-3 Chatham Court",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Wine",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 17:11:12",
-        "Longitude":114.1758278,
-        "Latitude":22.3018715,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"ENSO",
         "Person":"Evan"
     },
     {
@@ -2652,21 +2022,6 @@
         "Latitude":22.2976083,
         "Type":"Unique",
         "Cleaned Restaurant Name":"E-Sport Bar",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Everyday",
-        "Code":"R9062",
-        "Opportunities":"High",
-        "Location":"G\/F, Diamond Court, 10-12 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Vegetarian",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 11:08:11",
-        "Longitude":114.1727449,
-        "Latitude":22.3026613,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Everyday",
         "Person":"Evan"
     },
     {
@@ -2835,21 +2190,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Flow Cafe & Lounge",
-        "Code":"R12499",
-        "Opportunities":"High",
-        "Location":"11\/F, The Lamma Tower, 12-12A Hau Fook Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Coffee Shop",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-03 16:02:42",
-        "Longitude":114.1738698,
-        "Latitude":22.2996133,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Flow Cafe & Lounge",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Food Simple",
         "Code":"R10358",
         "Opportunities":"High",
@@ -3000,21 +2340,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Funky Town Pub",
-        "Code":"R12347",
-        "Opportunities":"High",
-        "Location":"G\/F, 10 Observatory Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Bar",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 16:56:33",
-        "Longitude":114.1754025,
-        "Latitude":22.3012028,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Funky Town Pub",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Fuunmaru",
         "Code":"R9882",
         "Opportunities":"High",
@@ -3042,21 +2367,6 @@
         "Latitude":22.2951024,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Gaddi's",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Gagahoho",
-        "Code":"R10616",
-        "Opportunities":"High",
-        "Location":"Shop 1, G\/F, Everglory Centre, 1B Kimberly Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 11:35:36",
-        "Longitude":114.175512,
-        "Latitude":22.300676,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Gagahoho",
         "Person":"Evan"
     },
     {
@@ -3105,51 +2415,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Ganbei Yakitori Restaurant (Chatham Road South)",
-        "Code":"R10080",
-        "Opportunities":"High",
-        "Location":"Shop G & H, G\/F, 123 Chatham Road South",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Skewer",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 17:40:32",
-        "Longitude":114.1765671,
-        "Latitude":22.3021112,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Ganbei Yakitori Restaurant",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Garden Bar & Restaurant",
-        "Code":"R12319",
-        "Opportunities":"High",
-        "Location":"Shop A, G\/F, Woon Lee Commercial Building, 7-9 Austin Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Bar",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 11:07:55",
-        "Longitude":114.1759086,
-        "Latitude":22.3020829,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Garden Bar & Restaurant",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Gekiyasu Yakiniku",
-        "Code":"R10529",
-        "Opportunities":"High",
-        "Location":"Shop C, 3\/F, China Insurance Building, 48 Cameron Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Wine",
-        "Price Range":"$401-800",
-        "Timestamp":"2024-10-04 12:41:44",
-        "Longitude":114.1750309,
-        "Latitude":22.2991251,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Gekiyasu Yakiniku",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"GelatoGelato",
         "Code":"R9277",
         "Opportunities":"High",
@@ -3195,21 +2460,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Glasshouse Greenery (K11 Musea)",
-        "Code":"R12160",
-        "Opportunities":"High",
-        "Location":"Shop 501&503A, 5\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,All Day Breakfast",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 11:16:51",
-        "Longitude":114.1744016,
-        "Latitude":22.2943715,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Glasshouse Greenery",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Gold Garden Shanghai Cuisine",
         "Code":"R10909",
         "Opportunities":"High",
@@ -3240,36 +2490,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Golden Bull French Vietnamese Cuisine",
-        "Code":"R11955",
-        "Opportunities":"High",
-        "Location":"G\/F, 9 Chatham Road South",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Vietnamese,Private Party",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 17:40:32",
-        "Longitude":114.1751684,
-        "Latitude":22.2967711,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Golden Bull French Vietnamese Cuisine",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Gomitori",
-        "Code":"R9487",
-        "Opportunities":"High",
-        "Location":"G\/F LG5 Energy Plaza, 92 Granville Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-03 16:04:16",
-        "Longitude":114.1767262,
-        "Latitude":22.2999261,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Gomitori",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"GOOD SMELL LEMON TEA",
         "Code":"R11456",
         "Opportunities":"High",
@@ -3285,21 +2505,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"GoodDay BadDay MamaDay",
-        "Code":"R8578",
-        "Opportunities":"High",
-        "Location":"G\/F & 1\/F, Ka Wing Building, 27-27A Granville Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,All Day Breakfast",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:46:56",
-        "Longitude":114.17382,
-        "Latitude":22.3000359,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"GoodDay BadDay MamaDay",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Gordon Wu Hall",
         "Code":"R12892",
         "Opportunities":"High",
@@ -3312,21 +2517,6 @@
         "Latitude":22.3027044,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Gordon Wu Hall",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Goshaku",
-        "Code":"R10210",
-        "Opportunities":"High",
-        "Location":"6\/F, 1 Knutsford Terrace",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Sushi\/Sashimi",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 16:56:33",
-        "Longitude":114.1731469,
-        "Latitude":22.3011301,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Goshaku",
         "Person":"Evan"
     },
     {
@@ -3390,21 +2580,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"GRANITE",
-        "Code":"R8610",
-        "Opportunities":"High",
-        "Location":"1\/F, Oriental Crystal Finance Centre, 107-109 Chatham Road South",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Bar",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 17:03:10",
-        "Longitude":114.1762579,
-        "Latitude":22.3013353,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"GRANITE",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"GREEN",
         "Code":"R12320",
         "Opportunities":"High",
@@ -3417,21 +2592,6 @@
         "Latitude":22.3008588,
         "Type":"Unique",
         "Cleaned Restaurant Name":"GREEN",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Greyhound Caf\u00e9 Galleria (K11 Musea)",
-        "Code":"R11637",
-        "Opportunities":"High",
-        "Location":"Shop 327A&327C, 3\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Thai",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 11:16:51",
-        "Longitude":114.1742588,
-        "Latitude":22.2943032,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Greyhound Caf\u00e9 Galleria",
         "Person":"Evan"
     },
     {
@@ -3465,21 +2625,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Guts Soul",
-        "Code":"R9595",
-        "Opportunities":"High",
-        "Location":"2\/F, Cameron Centre, 57-59 Chatham Road South",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,All-you-can-eat",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 12:22:21",
-        "Longitude":114.1755902,
-        "Latitude":22.2993383,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Guts Soul",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Hainan South",
         "Code":"R8457",
         "Opportunities":"High",
@@ -3492,66 +2637,6 @@
         "Latitude":22.24822,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Hainan South",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"HAN Chicken & Snack",
-        "Code":"R10701",
-        "Opportunities":"High",
-        "Location":"Shop B201-9-10, B2\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean,Korean Fried Chicken",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 17:18:26",
-        "Longitude":114.1753869,
-        "Latitude":22.294928,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"HAN Chicken & Snack",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Han Sung Korean Cuisine",
-        "Code":"R10617",
-        "Opportunities":"High",
-        "Location":"G\/F, 74-76 Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 17:07:53",
-        "Longitude":114.1755418,
-        "Latitude":22.3017912,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Han Sung Korean Cuisine",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"HANA Korean Restaurant",
-        "Code":"R10618",
-        "Opportunities":"High",
-        "Location":"G\/F, 1E Kimberley Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-03 16:04:16",
-        "Longitude":114.1751652,
-        "Latitude":22.3005876,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"HANA Korean Restaurant",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Hanatsuki Izakaya",
-        "Code":"R10119",
-        "Opportunities":"High",
-        "Location":"Shop 2A, 1\/F, Hilton Towers, 96 Granville Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Sushi\/Sashimi",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 15:43:42",
-        "Longitude":114.1771008,
-        "Latitude":22.2996139,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Hanatsuki Izakaya",
         "Person":"Evan"
     },
     {
@@ -3600,36 +2685,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Hanook Korean Restaurant",
-        "Code":"R10586",
-        "Opportunities":"High",
-        "Location":"G\/F, Beauty Mansion, 69-71A Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-03 16:06:48",
-        "Longitude":114.175119,
-        "Latitude":22.3014863,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Hanook Korean Restaurant",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Hans Bar and Restaurant",
-        "Code":"R9116",
-        "Opportunities":"High",
-        "Location":"Shop 7-8, G\/F, Windsor Mansion, 29-31 Chatham Road South",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 12:32:19",
-        "Longitude":114.1753255,
-        "Latitude":22.2979878,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Hans Bar and Restaurant",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"HARA STATION",
         "Code":"R10456",
         "Opportunities":"High",
@@ -3657,21 +2712,6 @@
         "Latitude":22.2933788,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Harbourside",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Hea Ha Hea Ha \u5c45\u9152\u5c4b",
-        "Code":"R10520",
-        "Opportunities":"High",
-        "Location":"9\/F, 10 Prat Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Wine",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 12:15:55",
-        "Longitude":114.174461,
-        "Latitude":22.298674,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Hea Ha Hea Ha \u5c45\u9152\u5c4b",
         "Person":"Evan"
     },
     {
@@ -3705,21 +2745,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"HENRY",
-        "Code":"R12231",
-        "Opportunities":"High",
-        "Location":"5\/F, Rosewood Hong Kong, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,American",
-        "Price Range":"Above $801",
-        "Timestamp":"2024-10-04 10:16:18",
-        "Longitude":114.1758105,
-        "Latitude":22.2949764,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"HENRY",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Here Thai Market",
         "Code":"R11601",
         "Opportunities":"High",
@@ -3750,21 +2775,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Hillview Cafe",
-        "Code":"R12370",
-        "Opportunities":"High",
-        "Location":"Lobby, Stanford Hillview Hotel, 13-17 Observatory Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Buffet",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 11:13:42",
-        "Longitude":114.1744504,
-        "Latitude":22.3014619,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Hillview Cafe",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Hiroshi",
         "Code":"R9464",
         "Opportunities":"High",
@@ -3777,36 +2787,6 @@
         "Latitude":22.3006559,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Hiroshi",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Holt's Cafe",
-        "Code":"R8661",
-        "Opportunities":"High",
-        "Location":"2\/F, Rosewood Hong Kong, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Brunch",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-03 16:04:16",
-        "Longitude":114.1744016,
-        "Latitude":22.2943715,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Holt's Cafe",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Honjin",
-        "Code":"R10007",
-        "Opportunities":"High",
-        "Location":"21\/F, H8, 8 Hau Fook Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Roast Meat",
-        "Price Range":"$401-800",
-        "Timestamp":"2024-10-09 13:25:19",
-        "Longitude":114.174559,
-        "Latitude":22.2995891,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Honjin",
         "Person":"Evan"
     },
     {
@@ -3867,21 +2847,6 @@
         "Latitude":22.4171246,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Hot plate house",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Hotaru",
-        "Code":"R10369",
-        "Opportunities":"High",
-        "Location":"Shop 1, LG\/F, Hilton Towers, 96 Granville Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Teppanyaki",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-03 16:18:13",
-        "Longitude":114.1772245,
-        "Latitude":22.2994836,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Hotaru",
         "Person":"Evan"
     },
     {
@@ -3975,21 +2940,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Hygge Bar",
-        "Code":"R10772",
-        "Opportunities":"High",
-        "Location":"Shop 2-3, G\/F, Winsor Mansion, 29 Chatham Road South",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean,Thai",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 17:33:42",
-        "Longitude":114.1753344,
-        "Latitude":22.2978921,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Hygge Bar",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"I Caf\u00e9",
         "Code":"R13008",
         "Opportunities":"High",
@@ -4065,21 +3015,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Ikki Izakaya & Bar",
-        "Code":"R10081",
-        "Opportunities":"High",
-        "Location":"Shop 2, G\/F, 8 Kimberley Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Skewer",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 10:57:19",
-        "Longitude":114.1747659,
-        "Latitude":22.3006363,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Ikki Izakaya & Bar",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"il Bel Paese Gelato Italiano",
         "Code":"R9274",
         "Opportunities":"High",
@@ -4122,36 +3057,6 @@
         "Latitude":22.29527,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Imasa",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"India Restaurant and Bar",
-        "Code":"R8370",
-        "Opportunities":"High",
-        "Location":"6\/F, 10 Prat Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Indian",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-03 16:04:16",
-        "Longitude":114.1744818,
-        "Latitude":22.2986846,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"India Restaurant and Bar",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Infuse Specialty Coffee by Ideaology",
-        "Code":"R12627",
-        "Opportunities":"High",
-        "Location":"G\/F, K11 ATELIER, Victoria Dockside, 18 Salisbury road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Coffee Shop",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 15:19:57",
-        "Longitude":114.1755719,
-        "Latitude":22.2947545,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Infuse Specialty Coffee by Ideaology",
         "Person":"Evan"
     },
     {
@@ -4215,51 +3120,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Izakaya - Honotorihane",
-        "Code":"R10216",
-        "Opportunities":"High",
-        "Location":"17\/F, The Lamma Tower, 12-12A Hau Fook Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Sushi\/Sashimi",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-03 16:04:16",
-        "Longitude":114.1739044,
-        "Latitude":22.2993755,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Izakaya - Honotorihane",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"IZAKAYA RUTSUKI",
-        "Code":"R10082",
-        "Opportunities":"High",
-        "Location":"2\/F, The Lamma Tower, 12-12A Hau Fook Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Skewer",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 12:22:21",
-        "Longitude":114.1738698,
-        "Latitude":22.2996133,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"IZAKAYA RUTSUKI",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"J.L. Private Kitchen",
-        "Code":"R12966",
-        "Opportunities":"High",
-        "Location":"2\/F, 23 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Private Kitchen",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 16:55:22",
-        "Longitude":114.173233,
-        "Latitude":22.3027973,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"J.L. Private Kitchen",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Jagger",
         "Code":"R9012",
         "Opportunities":"High",
@@ -4305,51 +3165,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"JJ Live",
-        "Code":"R12923",
-        "Opportunities":"High",
-        "Location":"Room 501, 5\/F, 8 Observatory Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Karaoke",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 16:56:33",
-        "Longitude":114.1756731,
-        "Latitude":22.3011024,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"JJ Live",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"JJANG",
-        "Code":"R10589",
-        "Opportunities":"High",
-        "Location":"G\/F, The Cameron, 33 Cameron Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:55:22",
-        "Longitude":114.1749148,
-        "Latitude":22.2995576,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"JJANG",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Joan Bar",
-        "Code":"R12002",
-        "Opportunities":"High",
-        "Location":"6\/F, The Lamma Tower, 12-12A Hau Fook Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 14:57:44",
-        "Longitude":114.1738698,
-        "Latitude":22.2996133,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Joan Bar",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Johnny cafe",
         "Code":"R12965",
         "Opportunities":"High",
@@ -4380,21 +3195,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Joker Bar",
-        "Code":"R12283",
-        "Opportunities":"High",
-        "Location":"1\/F, The Lamma Tower, 12-12A Hau Fook Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Bar",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 12:36:29",
-        "Longitude":114.1738914,
-        "Latitude":22.2996,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Joker Bar",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Joylane",
         "Code":"R11266",
         "Opportunities":"High",
@@ -4407,21 +3207,6 @@
         "Latitude":22.320878,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Joylane",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"JUBiLANT",
-        "Code":"R13164",
-        "Opportunities":"High",
-        "Location":"G\/F, 12 Knutsford Terrace",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:03:15",
-        "Longitude":114.1741176,
-        "Latitude":22.3013669,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"JUBiLANT",
         "Person":"Evan"
     },
     {
@@ -4467,21 +3252,6 @@
         "Latitude":22.4237565,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Just Steak Premium",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"JUST'er Bar & Restaurant",
-        "Code":"R13020",
-        "Opportunities":"High",
-        "Location":"Shop A1-A2, G\/F, 13 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Seafood",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:03:29",
-        "Longitude":114.1727945,
-        "Latitude":22.3027664,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"JUST'er Bar & Restaurant",
         "Person":"Evan"
     },
     {
@@ -4725,21 +3495,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Kimchi Korean Fusion",
-        "Code":"R10592",
-        "Opportunities":"High",
-        "Location":"Shop 4, G\/F, Pacific Building, 65 Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:46:33",
-        "Longitude":114.1749845,
-        "Latitude":22.3014431,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Kimchi Korean Fusion",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Kindness Vegetarian",
         "Code":"R9063",
         "Opportunities":"High",
@@ -4767,21 +3522,6 @@
         "Latitude":22.3677113,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Kobe Japanese cuisine",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Koffee Mameya & Omotesando Koffee",
-        "Code":"R9657",
-        "Opportunities":"High",
-        "Location":"Shop B217&B219, B2\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Coffee Shop",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 15:19:57",
-        "Longitude":114.1739272,
-        "Latitude":22.2941573,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Koffee Mameya & Omotesando Koffee",
         "Person":"Evan"
     },
     {
@@ -4842,21 +3582,6 @@
         "Latitude":22.297137,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Kowloon Shangri-La Hotel Ballroom",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"KR Cafe",
-        "Code":"R12751",
-        "Opportunities":"High",
-        "Location":"G\/F, 56A Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Coffee Shop",
-        "Price Range":"Below $50",
-        "Timestamp":"2024-10-04 11:01:52",
-        "Longitude":114.1747855,
-        "Latitude":22.3008555,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"KR Cafe",
         "Person":"Evan"
     },
     {
@@ -4995,21 +3720,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"L\u2019Paradis",
-        "Code":"R7626",
-        "Opportunities":"High",
-        "Location":"5\/F, Cameron Centre, 57-59 Chatham Road South",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Hong Kong Style,Bar",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 17:12:52",
-        "Longitude":114.1755651,
-        "Latitude":22.2991935,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"L\u2019Paradis",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"La Table French Brasserie",
         "Code":"R6796",
         "Opportunities":"High",
@@ -5022,21 +3732,6 @@
         "Latitude":22.299427,
         "Type":"Unique",
         "Cleaned Restaurant Name":"La Table French Brasserie",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"LAB ZER\u00d5",
-        "Code":"R13273",
-        "Opportunities":"High",
-        "Location":"Shop B, G\/F, 68 Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Yoshoku",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:56:33",
-        "Longitude":114.1753262,
-        "Latitude":22.3015016,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"LAB ZER\u00d5",
         "Person":"Evan"
     },
     {
@@ -5280,21 +3975,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Live Music Wonder Bar",
-        "Code":"R8612",
-        "Opportunities":"High",
-        "Location":"6\/F, Vincent Commercial Centre, 21 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Bar",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 15:41:28",
-        "Longitude":114.1732023,
-        "Latitude":22.3028999,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Live Music Wonder Bar",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"LOFT Stories",
         "Code":"R8953",
         "Opportunities":"High",
@@ -5352,21 +4032,6 @@
         "Latitude":22.2955415,
         "Type":"Unique",
         "Cleaned Restaurant Name":"LUMA",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"LUXX Shisha Bar",
-        "Code":"R9128",
-        "Opportunities":"High",
-        "Location":"6\/F, The Wave, 184 Nathan Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:55:22",
-        "Longitude":114.1721408,
-        "Latitude":22.3030398,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"LUXX Shisha Bar",
         "Person":"Evan"
     },
     {
@@ -5442,36 +4107,6 @@
         "Latitude":22.3347474,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Mahalo by Jlt",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Maido",
-        "Code":"R10723",
-        "Opportunities":"High",
-        "Location":"Shop 3, G\/F, Shun Fai Building, 64 Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean,Ramen",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 17:07:53",
-        "Longitude":114.1753111,
-        "Latitude":22.3013409,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Maido",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Maikhana",
-        "Code":"R8437",
-        "Opportunities":"High",
-        "Location":"G\/F, Soho Tower, 25 Hart Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Indian,Western",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-08 14:50:10",
-        "Longitude":114.1751434,
-        "Latitude":22.2979073,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Maikhana",
         "Person":"Evan"
     },
     {
@@ -5640,36 +4275,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Marouf Coffee",
-        "Code":"R8968",
-        "Opportunities":"High",
-        "Location":"Shop 3, G\/F, 8 Observatory Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Sandwich",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 16:56:33",
-        "Longitude":114.1756731,
-        "Latitude":22.3011024,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Marouf Coffee",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Me Club",
-        "Code":"R12284",
-        "Opportunities":"High",
-        "Location":"\u5c71\u6797\u905317-19\u865f\u5c71\u6797\u4e2d\u5fc31\u6a13",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Bar",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:55:22",
-        "Longitude":114.1730415,
-        "Latitude":22.3028868,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Me Club",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Meet Met Met",
         "Code":"R12802",
         "Opportunities":"High",
@@ -5820,51 +4425,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Mikazuki",
-        "Code":"R10397",
-        "Opportunities":"High",
-        "Location":"Shop B, 2\/F, Cameron Plaza, 23 Cameron Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Teppanyaki",
-        "Price Range":"Above $801",
-        "Timestamp":"2024-10-04 16:51:50",
-        "Longitude":114.1741717,
-        "Latitude":22.2992387,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Mikazuki",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Mike\u2019s Chicken Comida De Portugal Bistro",
-        "Code":"R10898",
-        "Opportunities":"High",
-        "Location":"Shop D, G\/F, Sovereign Mansion, 15-17 Pine Tree Hill Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Portuguese,Seafood",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-03 16:04:16",
-        "Longitude":114.1733352,
-        "Latitude":22.3032074,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Mike\u2019s Chicken Comida De Portugal Bistro",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"MiLuna Cafe & Ale House",
-        "Code":"R8586",
-        "Opportunities":"High",
-        "Location":"3\/F, Tak Sing Alliance Building, 115 Chatham Road South",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,All Day Breakfast",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-08 10:29:01",
-        "Longitude":114.1763874,
-        "Latitude":22.3016657,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"MiLuna Cafe & Ale House",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Minden Place Restaurant & Bar",
         "Code":"R12007",
         "Opportunities":"High",
@@ -5907,21 +4467,6 @@
         "Latitude":22.3893273,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Miranda.S Cafe",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Miss Marble",
-        "Code":"R12432",
-        "Opportunities":"High",
-        "Location":"Shop A1, G\/F, Block A, Carnival Mansion, 15B Austin Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Cake",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-09 15:17:57",
-        "Longitude":114.1750774,
-        "Latitude":22.3023876,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Miss Marble",
         "Person":"Evan"
     },
     {
@@ -5970,36 +4515,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Mojo Lounge",
-        "Code":"R9131",
-        "Opportunities":"High",
-        "Location":"11\/F, Nathan Hill, 38 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:55:22",
-        "Longitude":114.1740074,
-        "Latitude":22.3026712,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Mojo Lounge",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Moku",
-        "Code":"R10398",
-        "Opportunities":"High",
-        "Location":"Shop A, UG\/F, Pacific Building, 65-67B Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Teppanyaki",
-        "Price Range":"Above $801",
-        "Timestamp":"2024-10-04 16:46:33",
-        "Longitude":114.1749845,
-        "Latitude":22.3014431,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Moku",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Moment",
         "Code":"R10651",
         "Opportunities":"High",
@@ -6030,36 +4545,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Mood Coffee",
-        "Code":"R13012",
-        "Opportunities":"High",
-        "Location":"Shop E, G\/F, South Sea Apartments, 81 Chatham Road South",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Sandwich",
-        "Price Range":"Below $50",
-        "Timestamp":"2024-10-04 16:56:33",
-        "Longitude":114.1760527,
-        "Latitude":22.3010132,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Mood Coffee",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Moonlight Lounge Bar & Restaurant",
-        "Code":"R13170",
-        "Opportunities":"High",
-        "Location":"Shop B, 15\/F, Nathan Hill, 38 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:55:22",
-        "Longitude":114.1739958,
-        "Latitude":22.3026991,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Moonlight Lounge Bar & Restaurant",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Morii Espresso Bar",
         "Code":"R12759",
         "Opportunities":"High",
@@ -6087,21 +4572,6 @@
         "Latitude":22.295164,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Morton's of Chicago",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Mr. Korea BBQ",
-        "Code":"R10734",
-        "Opportunities":"High",
-        "Location":"1\/F, Surson Commercial Building, 140-142 Austin Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean,Roast Meat",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:49:58",
-        "Longitude":114.1741485,
-        "Latitude":22.303188,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Mr. Korea BBQ",
         "Person":"Evan"
     },
     {
@@ -6300,51 +4770,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Namdaemoon Cuisine",
-        "Code":"R10596",
-        "Opportunities":"High",
-        "Location":"G\/F, South East Mansion, 75 Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 17:07:53",
-        "Longitude":114.1750774,
-        "Latitude":22.3017772,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Namdaemoon Cuisine",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Namdaemoon Korean B.B.Q. Restaurant",
-        "Code":"R10744",
-        "Opportunities":"High",
-        "Location":"Shop 2, G\/F, Pacific Building, 65-67 Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean,Roast Meat",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 17:05:46",
-        "Longitude":114.1750778,
-        "Latitude":22.3013555,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Namdaemoon Korean B.B.Q. Restaurant",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Namdaemoon Three Korean Restaurant",
-        "Code":"R10722",
-        "Opportunities":"High",
-        "Location":"Shop 3, G\/F, Pacific Building, 65-67 Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean,Ramen",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-03 16:02:42",
-        "Longitude":114.1750778,
-        "Latitude":22.3013555,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Namdaemoon Three Korean Restaurant",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Nan Ei Sui San",
         "Code":"R10053",
         "Opportunities":"High",
@@ -6417,36 +4842,6 @@
         "Latitude":22.2483871,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Neighbourhood Coffee",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"New Clubyobo",
-        "Code":"R12089",
-        "Opportunities":"High",
-        "Location":"Shop 2-6, 1\/F, Harbour Crystal Centre, 100 Granville Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 17:27:15",
-        "Longitude":114.1783546,
-        "Latitude":22.3008427,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"New Clubyobo",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"New Wally Matt Bar",
-        "Code":"R13172",
-        "Opportunities":"High",
-        "Location":"Shop 2, UG\/F, Austin Tower Phase 2, 152 Austin Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 12:04:37",
-        "Longitude":114.1750932,
-        "Latitude":22.3030831,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"New Wally Matt Bar",
         "Person":"Evan"
     },
     {
@@ -6600,21 +4995,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Number 9 Coffee",
-        "Code":"R12656",
-        "Opportunities":"High",
-        "Location":"Shop 9, G\/F, Hilton Towers, 96 Granville Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Coffee Shop",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 17:30:31",
-        "Longitude":114.1772245,
-        "Latitude":22.2994836,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Number 9 Coffee",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Oasis Poolside",
         "Code":"R12290",
         "Opportunities":"High",
@@ -6627,21 +5007,6 @@
         "Latitude":22.256999,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Oasis Poolside",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Ocean",
-        "Code":"R13222",
-        "Opportunities":"High",
-        "Location":"4\/F, Tung Lei Centre, 22-24 Cameron Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-09 14:46:31",
-        "Longitude":114.1741858,
-        "Latitude":22.2989435,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Ocean",
         "Person":"Evan"
     },
     {
@@ -6687,21 +5052,6 @@
         "Latitude":22.3032897,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Ol\u00e9 Ol\u00e9",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Omakase Iki",
-        "Code":"R10255",
-        "Opportunities":"High",
-        "Location":"4\/F, Yi Serviced Apartments, 10-12 Chatham Court",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Sushi\/Sashimi",
-        "Price Range":"$401-800",
-        "Timestamp":"2024-10-03 16:02:42",
-        "Longitude":114.1760527,
-        "Latitude":22.3015799,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Omakase Iki",
         "Person":"Evan"
     },
     {
@@ -6975,36 +5325,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Park caf\u00e9",
-        "Code":"R12373",
-        "Opportunities":"High",
-        "Location":"4\/F, Park Hotel Hong Kong, 61-65 Chatham Road South",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Buffet",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-03 16:18:50",
-        "Longitude":114.1756763,
-        "Latitude":22.2996453,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Park caf\u00e9",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Pasta Kitchen by Chef Gatto",
-        "Code":"R9440",
-        "Opportunities":"High",
-        "Location":"Basement, Best Western Plus Hotel Kowloon, 73-75 Chatham Road South",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Italian,Western",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-03 16:04:16",
-        "Longitude":114.1758795,
-        "Latitude":22.3003061,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Pasta Kitchen by Chef Gatto",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Patisserie Les Amis",
         "Code":"R12438",
         "Opportunities":"High",
@@ -7170,21 +5490,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"PONG LIVE BY VSING",
-        "Code":"R13176",
-        "Opportunities":"High",
-        "Location":"3\/F, 1 Knutsford Terrace",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:56:33",
-        "Longitude":114.1731301,
-        "Latitude":22.3011708,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"PONG LIVE BY VSING",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Poolside",
         "Code":"R8734",
         "Opportunities":"High",
@@ -7215,21 +5520,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Port",
-        "Code":"R13229",
-        "Opportunities":"High",
-        "Location":"G\/F, 2 Knutsford Terrace",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-09 10:43:24",
-        "Longitude":114.173315,
-        "Latitude":22.301169,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Port",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Prime Steakhouse",
         "Code":"R13045",
         "Opportunities":"High",
@@ -7242,21 +5532,6 @@
         "Latitude":22.3073166,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Prime Steakhouse",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Private Corner Cafe & Bar",
-        "Code":"R12295",
-        "Opportunities":"High",
-        "Location":"Basement, 10-12 Chatham Court",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Bar",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-08 14:51:46",
-        "Longitude":114.1760565,
-        "Latitude":22.3015804,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Private Corner Cafe & Bar",
         "Person":"Evan"
     },
     {
@@ -7425,36 +5700,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Red Mamma Mia",
-        "Code":"R9420",
-        "Opportunities":"High",
-        "Location":"Shop B207, B2\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Italian,Western",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 11:16:51",
-        "Longitude":114.1753631,
-        "Latitude":22.2944949,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Red Mamma Mia",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Red Room",
-        "Code":"R13230",
-        "Opportunities":"High",
-        "Location":"Shop 606, 6\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-09 11:14:22",
-        "Longitude":114.1739272,
-        "Latitude":22.2941573,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Red Room",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Re's",
         "Code":"R13180",
         "Opportunities":"High",
@@ -7545,21 +5790,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Robatayaki Danran",
-        "Code":"R10035",
-        "Opportunities":"High",
-        "Location":"Shop A, 1\/F, 68 Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Robatayaki",
-        "Price Range":"$401-800",
-        "Timestamp":"2024-10-04 15:45:58",
-        "Longitude":114.1753262,
-        "Latitude":22.3015016,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Robatayaki Danran",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"room 3",
         "Code":"R10524",
         "Opportunities":"High",
@@ -7572,21 +5802,6 @@
         "Latitude":22.2953974,
         "Type":"Unique",
         "Cleaned Restaurant Name":"room 3",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"RUE DU LIBAN",
-        "Code":"R10788",
-        "Opportunities":"High",
-        "Location":"Shop A, G\/F, 22-26 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Lebanon,Wine",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 12:41:44",
-        "Longitude":114.1732661,
-        "Latitude":22.3025859,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"RUE DU LIBAN",
         "Person":"Evan"
     },
     {
@@ -7635,21 +5850,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"SAKEH",
-        "Code":"R10525",
-        "Opportunities":"High",
-        "Location":"G\/F & 1\/F, The Bauhinia, 5-9 Observatory Court",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Wine",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 16:56:33",
-        "Longitude":114.1746226,
-        "Latitude":22.3017609,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"SAKEH",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"SAKE-X",
         "Code":"R10511",
         "Opportunities":"High",
@@ -7677,36 +5877,6 @@
         "Latitude":22.2980484,
         "Type":"Unique",
         "Cleaned Restaurant Name":"SamMok Korean Restaurant",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Samsam",
-        "Code":"R10597",
-        "Opportunities":"High",
-        "Location":"Shop A, G\/F, 55 Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 15:16:07",
-        "Longitude":114.1745215,
-        "Latitude":22.3010718,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Samsam",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Samso Korean Restaurant",
-        "Code":"R10760",
-        "Opportunities":"High",
-        "Location":"Shop C, G\/F, South Sea Apartments, 81 Chatham Road South",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean,Soup",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:56:33",
-        "Longitude":114.1760527,
-        "Latitude":22.3010132,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Samso Korean Restaurant",
         "Person":"Evan"
     },
     {
@@ -7755,21 +5925,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Save",
-        "Code":"R8617",
-        "Opportunities":"High",
-        "Location":"7\/F, MW Plaza, 40 Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Bar",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 15:41:13",
-        "Longitude":114.1740869,
-        "Latitude":22.3006223,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Save",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"SAVVY",
         "Code":"R8865",
         "Opportunities":"High",
@@ -7782,21 +5937,6 @@
         "Latitude":22.2981979,
         "Type":"Unique",
         "Cleaned Restaurant Name":"SAVVY",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Schooner Pub",
-        "Code":"R12350",
-        "Opportunities":"High",
-        "Location":"2\/F, Oriental Crystal Finance Centre, 107-109 Chatham Road South",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Bar",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-09 14:57:26",
-        "Longitude":114.176262,
-        "Latitude":22.301319,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Schooner Pub",
         "Person":"Evan"
     },
     {
@@ -7827,36 +5967,6 @@
         "Latitude":22.306008,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Seafood Grill",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Seikuu",
-        "Code":"R10229",
-        "Opportunities":"High",
-        "Location":"Shop 1, G\/F, 8 Kimberley Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Sushi\/Sashimi",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 17:12:52",
-        "Longitude":114.1751996,
-        "Latitude":22.300793,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Seikuu",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Sekai no Yamachan Japan Restaurant",
-        "Code":"R9469",
-        "Opportunities":"High",
-        "Location":"Basement\/F, Cameron Centre, 57-59 Cameron Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 17:05:46",
-        "Longitude":114.1755752,
-        "Latitude":22.2993831,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Sekai no Yamachan Japan Restaurant",
         "Person":"Evan"
     },
     {
@@ -7950,21 +6060,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"SIP.ART",
-        "Code":"R12777",
-        "Opportunities":"High",
-        "Location":"Shop 109, 1\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Coffee Shop",
-        "Price Range":"Below $50",
-        "Timestamp":"2024-10-04 11:16:51",
-        "Longitude":114.174539,
-        "Latitude":22.2946706,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"SIP.ART",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"sips;;lban",
         "Code":"R10648",
         "Opportunities":"High",
@@ -7977,21 +6072,6 @@
         "Latitude":22.2951608,
         "Type":"Unique",
         "Cleaned Restaurant Name":"sips;;lban",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"SLLUKS HOUSE",
-        "Code":"R9141",
-        "Opportunities":"High",
-        "Location":"Shop 3, G\/F, 10-12 Observatory Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:56:33",
-        "Longitude":114.1754025,
-        "Latitude":22.3012028,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"SLLUKS HOUSE",
         "Person":"Evan"
     },
     {
@@ -8055,51 +6135,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Soi.29",
-        "Code":"R11756",
-        "Opportunities":"High",
-        "Location":"G\/F, Po Cheong Commercial Building, 29 Prat Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Thai,Dai Pai Dong",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-03 16:04:16",
-        "Longitude":114.175298,
-        "Latitude":22.2986362,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Soi.29",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"SONAMU Korean Restaurant",
-        "Code":"R10608",
-        "Opportunities":"High",
-        "Location":"LG\/F, Austin Tower, 152 Austin Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-03 16:04:16",
-        "Longitude":114.1751935,
-        "Latitude":22.3030887,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"SONAMU Korean Restaurant",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Soulgood Bakery",
-        "Code":"R12446",
-        "Opportunities":"High",
-        "Location":"Shop B201-39, B2\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Cake",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 16:38:03",
-        "Longitude":114.1744016,
-        "Latitude":22.2943715,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Soulgood Bakery",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Southside Bistro",
         "Code":"R8666",
         "Opportunities":"High",
@@ -8142,21 +6177,6 @@
         "Latitude":22.2981081,
         "Type":"Unique",
         "Cleaned Restaurant Name":"SP Senses",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Space X",
-        "Code":"R13184",
-        "Opportunities":"High",
-        "Location":"Shop 2, G\/F, Carlton Building, 2-3 Knutsford Terrace",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 12:22:21",
-        "Longitude":114.1733125,
-        "Latitude":22.301227,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Space X",
         "Person":"Evan"
     },
     {
@@ -8217,21 +6237,6 @@
         "Latitude":22.247355,
         "Type":"Unique",
         "Cleaned Restaurant Name":"stain+",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Star\u00f2",
-        "Code":"R12333",
-        "Opportunities":"High",
-        "Location":"9\/F, 1 Knutsford Terrace",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Bar",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 16:02:33",
-        "Longitude":114.1731332,
-        "Latitude":22.3011326,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Star\u00f2",
         "Person":"Evan"
     },
     {
@@ -8307,21 +6312,6 @@
         "Latitude":22.2979307,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Sukiyaki Nikuya",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Sukiyaki \u306b\u3058\u3085\u3046\u3055\u3093",
-        "Code":"R9503",
-        "Opportunities":"High",
-        "Location":"23\/F, Knutsford, 10 Knutsford Terrace",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese",
-        "Price Range":"$401-800",
-        "Timestamp":"2024-10-08 10:52:48",
-        "Longitude":114.1739859,
-        "Latitude":22.3013607,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Sukiyaki \u306b\u3058\u3085\u3046\u3055\u3093",
         "Person":"Evan"
     },
     {
@@ -8445,21 +6435,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Sushi Sora",
-        "Code":"R10235",
-        "Opportunities":"High",
-        "Location":"G\/F, Foo Hoo Centre, 3 Austin Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Sushi\/Sashimi",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-09 15:17:57",
-        "Longitude":114.176184,
-        "Latitude":22.301989,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Sushi Sora",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Sushi Station",
         "Code":"R10310",
         "Opportunities":"High",
@@ -8520,21 +6495,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Sushi Wadatsumi",
-        "Code":"R10357",
-        "Opportunities":"High",
-        "Location":"Shop 607, 6\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Sushi\/Sashimi,Above $801",
-        "Price Range":"Michelin 2024",
-        "Timestamp":"2024-10-04 10:16:18",
-        "Longitude":114.1744016,
-        "Latitude":22.2943715,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Sushi Wadatsumi",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Swagat Indian Restaurant (Chungking Mansions)",
         "Code":"R8421",
         "Opportunities":"High",
@@ -8577,21 +6537,6 @@
         "Latitude":22.4247747,
         "Type":"Unique",
         "Cleaned Restaurant Name":"T.B.M.Comfy",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Tagline Restaurant and Bar",
-        "Code":"R8411",
-        "Opportunities":"High",
-        "Location":"4\/F, 10 PRAT, 10 Prat Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Indian,Middle Eastern",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:09:29",
-        "Longitude":114.1744504,
-        "Latitude":22.2986716,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Tagline Restaurant and Bar",
         "Person":"Evan"
     },
     {
@@ -8700,51 +6645,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"TEKKA (Hau Fook Street)",
-        "Code":"R10180",
-        "Opportunities":"High",
-        "Location":"G\/F, 10 Hau Fook Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Sushi\/Sashimi",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-03 16:02:42",
-        "Longitude":114.1741423,
-        "Latitude":22.2996273,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"TEKKA",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Telicious",
-        "Code":"R8511",
-        "Opportunities":"High",
-        "Location":"G\/F, 34-36 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International",
-        "Price Range":"$401-800",
-        "Timestamp":"2024-10-04 17:33:42",
-        "Longitude":114.1738234,
-        "Latitude":22.3026288,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Telicious",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Tenj\u016b Bar",
-        "Code":"R10513",
-        "Opportunities":"High",
-        "Location":"Shop 2, UG\/F, Observatory Mansions, 10-12 Observatory Court",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:56:33",
-        "Longitude":114.1748567,
-        "Latitude":22.3018487,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Tenj\u016b Bar",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Teppanyaki Deli's",
         "Code":"R10393",
         "Opportunities":"High",
@@ -8775,51 +6675,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"T\u00eate-\u00e0-T\u00eate",
-        "Code":"R12304",
-        "Opportunities":"High",
-        "Location":"3\/F, Soho Tower, 25 Hart Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Bar",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 11:43:09",
-        "Longitude":114.1750938,
-        "Latitude":22.2979546,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"T\u00eate-\u00e0-T\u00eate",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Thai butterfly",
-        "Code":"R11814",
-        "Opportunities":"High",
-        "Location":"16\/F, H8, 8 Hau Fook Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Thai,Seafood",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 12:30:00",
-        "Longitude":114.1745665,
-        "Latitude":22.2995907,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Thai butterfly",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Thailand King",
-        "Code":"R11831",
-        "Opportunities":"High",
-        "Location":"G\/F, 22-22A Granville Circuit, Granville Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Thai,Skewer",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 12:22:21",
-        "Longitude":114.1749632,
-        "Latitude":22.2999315,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Thailand King",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"The Ashley Road Trading Company",
         "Code":"R12354",
         "Opportunities":"High",
@@ -8832,21 +6687,6 @@
         "Latitude":22.2969237,
         "Type":"Unique",
         "Cleaned Restaurant Name":"The Ashley Road Trading Company",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"THE BAKERISM",
-        "Code":"R12418",
-        "Opportunities":"High",
-        "Location":"Shop C, G\/F, 68 Kimberley Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Cake",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 12:15:43",
-        "Longitude":114.1753262,
-        "Latitude":22.3015016,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"THE BAKERISM",
         "Person":"Evan"
     },
     {
@@ -8892,21 +6732,6 @@
         "Latitude":22.247355,
         "Type":"Unique",
         "Cleaned Restaurant Name":"THE BARKYARD",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"The Butterfly Room",
-        "Code":"R12420",
-        "Opportunities":"High",
-        "Location":"2\/F, Rosewood Hong Kong, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Cake",
-        "Price Range":"$401-800",
-        "Timestamp":"2024-10-04 11:37:07",
-        "Longitude":114.1758105,
-        "Latitude":22.2949764,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"The Butterfly Room",
         "Person":"Evan"
     },
     {
@@ -9180,21 +7005,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"THE MUSSELS",
-        "Code":"R6793",
-        "Opportunities":"High",
-        "Location":"Shop 034 & 032B, G\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"French,Western",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 11:16:51",
-        "Longitude":114.1739272,
-        "Latitude":22.2941573,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"THE MUSSELS",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"The Nest Coffee Shop",
         "Code":"R12130",
         "Opportunities":"High",
@@ -9285,21 +7095,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"The Right Place (\u5bf6\u52d2\u5df7)",
-        "Code":"R13194",
-        "Opportunities":"High",
-        "Location":"G\/F, 17-19 Prat Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 17:43:00",
-        "Longitude":114.174879,
-        "Latitude":22.298537,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"The Right Place",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"The Ritz-Carlton, Hong Kong",
         "Code":"R8472",
         "Opportunities":"High",
@@ -9327,36 +7122,6 @@
         "Latitude":22.2953974,
         "Type":"Unique",
         "Cleaned Restaurant Name":"The Salfee Bar",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"The Steak House",
-        "Code":"R6670",
-        "Opportunities":"High",
-        "Location":"G\/F, The Regent Hong Kong, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"British,Western",
-        "Price Range":"Above $801",
-        "Timestamp":"2024-10-04 10:16:18",
-        "Longitude":114.1737286,
-        "Latitude":22.2936592,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"The Steak House",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"The Well Japanese Restaurant",
-        "Code":"R10069",
-        "Opportunities":"High",
-        "Location":"Shop D, G\/F, Austin Mansion, 15A Austin Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Skewer",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-09 15:06:18",
-        "Longitude":114.1751449,
-        "Latitude":22.3022805,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"The Well Japanese Restaurant",
         "Person":"Evan"
     },
     {
@@ -9405,21 +7170,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Timber",
-        "Code":"R8623",
-        "Opportunities":"High",
-        "Location":"Shop 1, 3\/F, 8 Observatory Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Bar",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:56:33",
-        "Longitude":114.1756731,
-        "Latitude":22.3011024,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Timber",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Time Park Lounge",
         "Code":"R12550",
         "Opportunities":"High",
@@ -9432,36 +7182,6 @@
         "Latitude":22.2969247,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Time Park Lounge",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Tin Heung Lau",
-        "Code":"R10557",
-        "Opportunities":"High",
-        "Location":"G\/F, Kiu Fung Mansion, 18C Austin Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Jiang-Zhe,Fine Dried Seafood",
-        "Price Range":"$401-800",
-        "Timestamp":"2024-10-04 16:02:33",
-        "Longitude":114.1753554,
-        "Latitude":22.30262,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Tin Heung Lau",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"TIRPSE",
-        "Code":"R9716",
-        "Opportunities":"High",
-        "Location":"Shop 219, 2\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,French",
-        "Price Range":"Above $801",
-        "Timestamp":"2024-10-04 11:16:51",
-        "Longitude":114.1754058,
-        "Latitude":22.2941322,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"TIRPSE",
         "Person":"Evan"
     },
     {
@@ -9525,21 +7245,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"TORI TORI",
-        "Code":"R10417",
-        "Opportunities":"High",
-        "Location":"Shop B, G\/F, 6 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Udon",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 16:55:22",
-        "Longitude":114.1723387,
-        "Latitude":22.3025873,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"TORI TORI",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Torienya",
         "Code":"R10238",
         "Opportunities":"High",
@@ -9585,36 +7290,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Touch Wood Pub",
-        "Code":"R8336",
-        "Opportunities":"High",
-        "Location":"3\/F, The Lamma Tower, 12-12A Hau Fook Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Hong Kong Style,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 12:36:29",
-        "Longitude":114.173948,
-        "Latitude":22.299589,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Touch Wood Pub",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Towada Sushi",
-        "Code":"R10240",
-        "Opportunities":"High",
-        "Location":"G\/F, Chinachem Cameron Centre, 42 Cameron Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Sushi\/Sashimi",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 11:01:52",
-        "Longitude":114.174845,
-        "Latitude":22.299024,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Towada Sushi",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"TP Tea (China Hong Kong City)",
         "Code":"R11578",
         "Opportunities":"High",
@@ -9645,36 +7320,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Triangle Coffee",
-        "Code":"R12823",
-        "Opportunities":"High",
-        "Location":"Shop A2, G\/F, Granville House, Granville Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Dessert",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-03 16:02:42",
-        "Longitude":114.1747058,
-        "Latitude":22.3002663,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Triangle Coffee",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"TRIBES",
-        "Code":"R10846",
-        "Opportunities":"High",
-        "Location":"2\/F, Eastern Flower Centre, 22-24 Cameron Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Middle Eastern",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 11:13:42",
-        "Longitude":114.1741858,
-        "Latitude":22.2989435,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"TRIBES",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"TSUKADA NOJO",
         "Code":"R9750",
         "Opportunities":"High",
@@ -9690,21 +7335,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"TUBER Umberto Bombana",
-        "Code":"R9259",
-        "Opportunities":"High",
-        "Location":"Shop 113A, 1\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Italian,Fine Dining",
-        "Price Range":"Above $801",
-        "Timestamp":"2024-10-04 11:16:51",
-        "Longitude":114.1739272,
-        "Latitude":22.2941573,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"TUBER Umberto Bombana",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Turning Point By Coffee Art",
         "Code":"R9222",
         "Opportunities":"High",
@@ -9717,36 +7347,6 @@
         "Latitude":22.3011413,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Turning Point By Coffee Art",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Ukiyo",
-        "Code":"R12161",
-        "Opportunities":"High",
-        "Location":"Shop 610, 6\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,All Day Breakfast",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 10:16:18",
-        "Longitude":114.1739272,
-        "Latitude":22.2941573,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Ukiyo",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Ultra 305",
-        "Code":"R12312",
-        "Opportunities":"High",
-        "Location":"2\/F, Knutsford Court, 10 Knutsford Terrace",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Bar",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-03 16:06:02",
-        "Longitude":114.1739859,
-        "Latitude":22.3013607,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Ultra 305",
         "Person":"Evan"
     },
     {
@@ -9825,21 +7425,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"V.g. Bar",
-        "Code":"R7631",
-        "Opportunities":"High",
-        "Location":"10\/F, Vincent Commercial Centre, 21 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Hong Kong Style,Bar",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 12:20:16",
-        "Longitude":114.1732191,
-        "Latitude":22.3028987,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"V.g. Bar",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"VA BENE Italiano",
         "Code":"R9303",
         "Opportunities":"High",
@@ -9852,21 +7437,6 @@
         "Latitude":22.3371049,
         "Type":"Unique",
         "Cleaned Restaurant Name":"VA BENE Italiano",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Velo Italian Bar & Grill",
-        "Code":"R9307",
-        "Opportunities":"High",
-        "Location":"Shop 103, 1\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Italian,Pizza",
-        "Price Range":"$401-800",
-        "Timestamp":"2024-10-04 11:16:51",
-        "Longitude":114.174312,
-        "Latitude":22.2945336,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Velo Italian Bar & Grill",
         "Person":"Evan"
     },
     {
@@ -9960,21 +7530,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"WADO IZAKAYA",
-        "Code":"R10244",
-        "Opportunities":"High",
-        "Location":"G\/F & M\/F, Hang Lung Bank Building, 46-48 Granville Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Sushi\/Sashimi",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 12:51:35",
-        "Longitude":114.1748859,
-        "Latitude":22.300123,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"WADO IZAKAYA",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Wa-En Yakiniku",
         "Code":"R10057",
         "Opportunities":"High",
@@ -10017,36 +7572,6 @@
         "Latitude":22.248823,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Wato Sushi",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Wavy Bar & Restaurant",
-        "Code":"R13201",
-        "Opportunities":"High",
-        "Location":"Shop 2, 6\/F, 8 Observatory Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:56:33",
-        "Longitude":114.1756731,
-        "Latitude":22.3011024,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Wavy Bar & Restaurant",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Whatsup cafe",
-        "Code":"R12030",
-        "Opportunities":"High",
-        "Location":"G\/F, 3 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 16:02:33",
-        "Longitude":114.1723488,
-        "Latitude":22.3028285,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Whatsup cafe",
         "Person":"Evan"
     },
     {
@@ -10140,51 +7665,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Winemood",
-        "Code":"R13202",
-        "Opportunities":"High",
-        "Location":"Shop 11, G\/F, Empress Plaza, 17 Chatham Road South",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 17:32:04",
-        "Longitude":114.1753187,
-        "Latitude":22.2970623,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Winemood",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Won PungWon Korean Restaurant",
-        "Code":"R10669",
-        "Opportunities":"High",
-        "Location":"G\/F, Valiant Commercial Building, 22-24 Prat Avenue",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean,Korean BBQ",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 12:16:15",
-        "Longitude":114.1749079,
-        "Latitude":22.2988058,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Won PungWon Korean Restaurant",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"XX",
-        "Code":"R9153",
-        "Opportunities":"High",
-        "Location":"5\/F, Rosewood Hong Kong, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Wine",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 10:56:55",
-        "Longitude":114.1758105,
-        "Latitude":22.2949764,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"XX",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Y o'clock",
         "Code":"R13203",
         "Opportunities":"High",
@@ -10197,21 +7677,6 @@
         "Latitude":22.2969076,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Y o'clock",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Yakiniku JIKON by Tominokoji Yamagishi",
-        "Code":"R10011",
-        "Opportunities":"High",
-        "Location":"Shop 603, 6\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Roast Meat",
-        "Price Range":"$401-800",
-        "Timestamp":"2024-10-04 11:16:51",
-        "Longitude":114.1739272,
-        "Latitude":22.2941573,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Yakiniku JIKON by Tominokoji Yamagishi",
         "Person":"Evan"
     },
     {
@@ -10275,21 +7740,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"YoiYoi Charcoal Grill & Sake Bar",
-        "Code":"R10103",
-        "Opportunities":"High",
-        "Location":"Shop A, 15\/F, Nathan Hill, 38 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Skewer",
-        "Price Range":"$401-800",
-        "Timestamp":"2024-10-04 16:55:22",
-        "Longitude":114.1739958,
-        "Latitude":22.3026991,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"YoiYoi Charcoal Grill & Sake Bar",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Yokukawa Japanese Cuisine",
         "Code":"R9495",
         "Opportunities":"High",
@@ -10320,21 +7770,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Yoru Teppanyaki",
-        "Code":"R10407",
-        "Opportunities":"High",
-        "Location":"G\/F, 17-19 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Teppanyaki",
-        "Price Range":"Above $801",
-        "Timestamp":"2024-10-04 16:10:56",
-        "Longitude":114.1730338,
-        "Latitude":22.3028841,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Yoru Teppanyaki",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"Yukimura",
         "Code":"R9779",
         "Opportunities":"High",
@@ -10347,36 +7782,6 @@
         "Latitude":22.2973562,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Yukimura",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"YumMee (K11 Musea)",
-        "Code":"R8881",
-        "Opportunities":"High",
-        "Location":"Food Playground, B2\/F, K11 Musea, Victoria Dockside, 18 Salisbury Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Noodles\/Rice Noodles",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 11:16:51",
-        "Longitude":114.1744915,
-        "Latitude":22.2944374,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"YumMee",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"Yummy Dino\u2027Mr. Dino",
-        "Code":"R8931",
-        "Opportunities":"High",
-        "Location":"2\/F, H8, 8 Hau Fook Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"International,Pizza",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 12:22:21",
-        "Longitude":114.1745665,
-        "Latitude":22.2995907,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Yummy Dino\u2027Mr. Dino",
         "Person":"Evan"
     },
     {
@@ -10440,21 +7845,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"Zi",
-        "Code":"R13264",
-        "Opportunities":"High",
-        "Location":"G\/F, 8 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Western,Wine",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 11:35:36",
-        "Longitude":114.1725604,
-        "Latitude":22.3025871,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Zi",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"\uac08\ube44\uad81 Galbi Gung",
         "Code":"R10676",
         "Opportunities":"High",
@@ -10467,36 +7857,6 @@
         "Latitude":22.3727071,
         "Type":"Unique",
         "Cleaned Restaurant Name":"\uac08\ube44\uad81 Galbi Gung",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"\ubd80\uc790\uce7c\uad6d\uc218 (Hillwood Road)",
-        "Code":"R10714",
-        "Opportunities":"High",
-        "Location":"Shop 20-27, G\/F, Winning Commercial Building, 46-48 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean,Noodles\/Rice Noodles",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 16:55:22",
-        "Longitude":114.1743575,
-        "Latitude":22.30261,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"\ubd80\uc790\uce7c\uad6d\uc218",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"\u4e00\u65b9\u5802\u5c45\u9152\u5c4b",
-        "Code":"R10246",
-        "Opportunities":"High",
-        "Location":"9\/F, The Lamma Tower, 12-12A Hau Fook Street",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Sushi\/Sashimi",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 12:22:21",
-        "Longitude":114.1738698,
-        "Latitude":22.2996133,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"\u4e00\u65b9\u5802\u5c45\u9152\u5c4b",
         "Person":"Evan"
     },
     {
@@ -10560,21 +7920,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"\u5e55\u591a",
-        "Code":"R9858",
-        "Opportunities":"High",
-        "Location":"Shop A, G\/F, Dolford Mansion, 1-3 Chatham Court",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Ramen",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-03 16:02:42",
-        "Longitude":114.1758572,
-        "Latitude":22.3018709,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"\u5e55\u591a",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"\u5e73\u548c\u62c9\u9eb5",
         "Code":"R9954",
         "Opportunities":"High",
@@ -10587,21 +7932,6 @@
         "Latitude":22.2967951,
         "Type":"Unique",
         "Cleaned Restaurant Name":"\u5e73\u548c\u62c9\u9eb5",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"\u671d\u65e5\u5927\u52dd A V \u30e9\u30fc\u30e1\u30f3",
-        "Code":"R9957",
-        "Opportunities":"High",
-        "Location":"Shop 5, G\/F, King's Commercial Building, 2-4 Chatham Court",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Ramen",
-        "Price Range":"$51-100",
-        "Timestamp":"2024-10-04 17:07:53",
-        "Longitude":114.1757508,
-        "Latitude":22.3016929,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"\u671d\u65e5\u5927\u52dd A V \u30e9\u30fc\u30e1\u30f3",
         "Person":"Evan"
     },
     {
@@ -10680,21 +8010,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"\u705d",
-        "Code":"R10644",
-        "Opportunities":"High",
-        "Location":"3\/F, Nathan Hill, 38 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Korean,All-you-can-eat",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 16:55:22",
-        "Longitude":114.1740092,
-        "Latitude":22.3025996,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"\u705d",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"\u798f\u7802\u5c4b",
         "Code":"R9481",
         "Opportunities":"High",
@@ -10752,21 +8067,6 @@
         "Latitude":22.3888601,
         "Type":"Unique",
         "Cleaned Restaurant Name":"\u83ca\u4e00\u58fd\u53f8",
-        "Person":"Evan"
-    },
-    {
-        "Restaurant Name":"\u85cd\u5929\u5eca",
-        "Code":"R7629",
-        "Opportunities":"High",
-        "Location":"10\/F, The Wave, 184 Nathan Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Hong Kong Style,Bar",
-        "Price Range":"$201-400",
-        "Timestamp":"2024-10-04 17:40:55",
-        "Longitude":114.172073,
-        "Latitude":22.302968,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"\u85cd\u5929\u5eca",
         "Person":"Evan"
     },
     {
@@ -10845,21 +8145,6 @@
         "Person":"Evan"
     },
     {
-        "Restaurant Name":"\u9280\u5ea718\u65e5\u672c\u6599\u7406",
-        "Code":"R9811",
-        "Opportunities":"High",
-        "Location":"18\/F, Nathan Hill, 38 Hillwood Road",
-        "District":"Tsim Sha Tsui",
-        "Cuisines":"Japanese,Omakase",
-        "Price Range":"$401-800",
-        "Timestamp":"2024-10-04 16:55:22",
-        "Longitude":114.1740092,
-        "Latitude":22.3025996,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"\u9280\u5ea718\u65e5\u672c\u6599\u7406",
-        "Person":"Evan"
-    },
-    {
         "Restaurant Name":"\u97d3\u6cf0\u82d1\u97d3\u6cf0\u6599\u7406\u5c08\u9580\u5e97",
         "Code":"R10774",
         "Opportunities":"High",
@@ -10902,21 +8187,6 @@
         "Latitude":22.2931467,
         "Type":"Unique",
         "Cleaned Restaurant Name":"Aqualuna",
-        "Person":"Jacqueline"
-    },
-    {
-        "Restaurant Name":"Country Club 88",
-        "Code":"R11996",
-        "Opportunities":"High",
-        "Location":"L\/F, 88 Lock Hiart Road",
-        "District":"Wan Chai",
-        "Cuisines":"Western",
-        "Price Range":"$101-200",
-        "Timestamp":"2024-10-04 15:16:59",
-        "Longitude":114.176655,
-        "Latitude":22.300004,
-        "Type":"Unique",
-        "Cleaned Restaurant Name":"Country Club 88",
         "Person":"Jacqueline"
     }
 ]
